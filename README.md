@@ -1,3 +1,3 @@
 
 
-*URL da aplicação funcionando*: https://galeria-de-imagens-rwt.vercel.app/
+*URL da aplicação: https://galeria-de-imagens-rwt.vercel.app/
