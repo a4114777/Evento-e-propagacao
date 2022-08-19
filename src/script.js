@@ -33,12 +33,12 @@ function ocultarPalavras(){
     });
     hamburger.src="./assets/open-menu.svg";
 }
-function anularPropagacao(ev){
-    ev.stopPropagation();
+function anularPropagacao(e){
+    e.stopPropagation();
 }
 
 hamburger.addEventListener("click", abrirMenu);
-function abrirMenu(event){
+function abrirMenu(){
     if(menuLateral.classList.contains("menu-lateral-aberto")){
         exibirPalavras();
         menuLateral.classList.remove("menu-lateral-aberto");
