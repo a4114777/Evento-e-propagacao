@@ -1,3 +1,3 @@
 
 
-*URL da aplicação funcionando*: https://galeria-de-imagens.netlify.app/
+*URL da aplicação funcionando*: https://galeria-de-imagens-rwt.vercel.app/
